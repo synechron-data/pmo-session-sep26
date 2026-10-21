@@ -1,0 +1,18 @@
+WEEKLY PMO STATUS REPORT TEMPLATE
+Document ID: DEMO-PMO-003. Version 1.0. Fictional workshop template.
+
+Report title:
+Reporting week:
+As-of date:
+
+1. Executive summary: no more than 100 words.
+2. Project overview: Project | Calculated RAG if requested | Evidence IDs | Main attention item.
+3. Achievements this week: Milestone ID | Deliverable | Completion date | Owner.
+4. Overdue milestones and due-today items: keep these separate. Show ID, project, owner, due date, current status and next question.
+5. Upcoming seven days: ID | Milestone | Due date | Owner | Dependency.
+6. Risks, issues, dependencies, and assumptions: include open entries, impact, owner, review date and response. Distinguish a risk from an issue already occurring.
+7. Decisions and escalations: Issue | Evidence | Decision needed | Proposed decision-maker role.
+8. Follow-up actions: Action ID | Owner | Due date | Status | Follow-up needed.
+9. Data quality and conflicting updates: missing owners/dates, stale updates, contradictions, and confirmation required.
+
+Reference the source document and record IDs. Separate observations from suggested actions. Do not infer a trend from this single snapshot.

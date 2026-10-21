@@ -1,0 +1,83 @@
+Actions source snapshot
+
+Fictional training data. As of 16 October 2026. Blank fields mean missing, not zero.
+
+Action ID: A01
+Project: Atlas Onboarding
+Action: Obtain sandbox access
+Owner: Rohan Mehta
+Due Date: 2026-10-14
+Status: Open
+Priority: High
+Milestone ID: M02
+Comments: Vendor has not confirmed access
+
+Action ID: A02
+Project: Atlas Onboarding
+Action: Confirm test slot
+Owner: Neha Shah
+Due Date: 2026-10-19
+Status: Open
+Priority: Medium
+Milestone ID: M03
+Comments: Awaiting API completion
+
+Action ID: A03
+Project: Beacon Reporting
+Action: Resolve source mappings
+Owner: Arjun Sen
+Due Date: 2026-10-15
+Status: In Progress
+Priority: High
+Milestone ID: M06
+Comments: Two mappings require business input
+
+Action ID: A04
+Project: Beacon Reporting
+Action: Nominate UAT testers
+Owner: Kavya Iyer
+Due Date: 2026-10-16
+Status: Completed
+Priority: Medium
+Milestone ID: M07
+Comments: Testers confirmed on 16 October
+
+Action ID: A05
+Project: Cedar Migration
+Action: Close security finding
+Owner: Dev Patel
+Due Date: 2026-10-16
+Status: In Progress
+Priority: High
+Milestone ID: M10
+Comments: Evidence sent to security reviewer
+
+Action ID: A06
+Project: Cedar Migration
+Action: Assign handover owner
+Owner: [missing]
+Due Date: 2026-10-19
+Status: Open
+Priority: High
+Milestone ID: M12
+Comments: Sponsor must assign owner
+
+Action ID: A07
+Project: Beacon Reporting
+Action: Draft support runbook
+Owner: Vikram Das
+Due Date: [missing]
+Status: Open
+Priority: Medium
+Milestone ID: M08
+Comments: Due date not agreed
+
+Action ID: A08
+Project: Atlas Onboarding
+Action: Archive sign-off
+Owner: Asha Rao
+Due Date: 2026-10-13
+Status: Completed
+Priority: Low
+Milestone ID: M01
+Comments: Evidence archived

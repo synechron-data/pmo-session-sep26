@@ -1,0 +1,22 @@
+PMO REPORTING GUIDELINES
+Document ID: DEMO-PMO-001. Version 1.0. Workshop baseline: 16 October 2026.
+Fictional training rules, not an approved Synechron policy.
+
+Report on 12 to 16 October 2026, using 16 October as the as-of date.
+The tracker snapshots are the baseline records at the reporting cutoff. Sample emails provide supplementary context. If an email and tracker disagree, retain the tracker state, quote the discrepancy and request owner confirmation. Do not silently update the baseline.
+
+An overdue milestone has Due Date strictly before the as-of date and Status other than Completed. A milestone due on the as-of date is due today, not overdue. Missing dates are unknown, not overdue. A completed milestone is excluded from the overdue list even if it finished late.
+Overdue actions follow the same date rule and exclude Completed actions.
+Upcoming means dates strictly after the as-of date and on or before seven calendar days later. Keep due-today items separate.
+Stale means Last Update is more than seven calendar days before the as-of date. A missing update date is a data-quality issue.
+Weekly achievements require Completed Date within the reporting week. Do not count older completions as new weekly achievements.
+
+Reported RAG is a source label on a milestone. Preserve it. For an optional calculated project RAG, use these demonstration rules in priority order:
+Red: at least one Blocked milestone or overdue incomplete milestone.
+Amber: otherwise, at least one overdue open action or open High-impact RAID entry.
+Green: otherwise, provided required status, owner and date data is complete.
+Needs review: required data is missing and no Red or Amber trigger is already established.
+Always show missing-data issues even if another rule establishes Red or Amber. Keep calculated project RAG separate from reported milestone RAG.
+
+Count each record by its unique ID. A milestone, action, and RAID entry can refer to the same underlying problem; do not count them as three distinct project blockers without explaining their relationship.
+Do not average milestone progress to claim an overall project completion rate. No weighting is supplied.

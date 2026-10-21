@@ -1,0 +1,14 @@
+ESCALATION AND OWNERSHIP
+Document ID: DEMO-PMO-002. Version 1.0. Fictional workshop procedure.
+
+Milestone owners confirm status, evidence, dependencies, and revised dates.
+Action owners provide updates and closure evidence.
+Project leads coordinate cross-team recovery. A project lead has not been assigned in this dataset, so identify the role without inventing a name.
+The PMO consolidates reports and tracks follow-up. The sponsor resolves decisions outside the project team's authority.
+
+Escalate a blocked milestone or overdue milestone to its owner and the project lead. Include record ID, original due date, current status, known dependency, impact supported by the records, and the decision needed. Request a recovery date; do not invent one.
+Escalate an unassigned item to the project lead for owner assignment. Do not automatically assign the person mentioned in a related email.
+For open High-impact RAID entries, request an update from the recorded owner and flag the item for the project lead.
+For missing dates or stale updates, request confirmation before relying on the record for a commitment.
+
+Draft follow-up messages only. Do not claim to send an email, approve a change, close an action, or update a system. A recommendation is not an approval.

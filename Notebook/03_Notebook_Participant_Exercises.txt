@@ -1,0 +1,37 @@
+PMO NOTEBOOK PARTICIPANT EXERCISES
+Suggested duration: 25 to 30 minutes.
+Keep this guide outside the notebook references. Paste each prompt into the same notebook conversation.
+
+EXERCISE 1: CHECK THE SOURCES
+List the references you can read. Identify the workbook worksheets and reporting period. Explain which files provide numerical/status evidence, governance rules, email context and meeting context. Do not assume that a file was read merely because its name appears.
+
+EXERCISE 2: FIND WORK NEEDING ATTENTION
+As of 16 October 2026, list overdue milestones, milestones due today, and incomplete milestones due in the next seven calendar days in separate tables. Show ID, project, owner, due date, status and dependency. Apply the reporting guidelines and cite the source. Flag missing information separately.
+
+EXERCISE 3: COMBINE WORKBOOK, EMAILS AND MEETING NOTES
+Compare the tracker baseline with the sample emails and meeting notes. Identify claims that could be mistaken for completion, acceptance, approval or ownership. For each, show the baseline, supplementary evidence, what remains unconfirmed and the question we should ask. Preserve the baseline status.
+
+EXERCISE 4: PREPARE THE WEEKLY REVIEW
+Prepare the weekly PMO report for 12 to 16 October 2026 using the supplied template and management brief. Include an executive summary of no more than 100 words, achievements completed during the week, attention items, upcoming milestones, open RAID entries and data-quality issues. Cite evidence IDs and separate recorded facts from suggested next steps. Do not infer an overall project completion percentage.
+
+EXERCISE 5: CREATE A DECISION AND ACTION TABLE
+From the report, produce a decision/action table. Include issue, evidence IDs, decision or action requested, recorded owner or suggested role, and recorded deadline or To be agreed. Distinguish existing tracker actions from newly proposed follow-ups. Do not invent a named project lead or recovery date.
+
+EXERCISE 6: DRAFT FOLLOW-UPS
+Draft two short messages: one to the recorded owner of an overdue item and one to the project-lead role about missing ownership or evidence. Include the relevant IDs and a clear request. Do not invent email addresses or imply the messages have been sent.
+
+OPTIONAL: CHALLENGE AN UNSUPPORTED REQUEST
+What is Synechron's official approval threshold for a commercial change? Explain whether any reference in this notebook establishes that policy.
+
+OPTIONAL: MEETING PREPARATION
+Turn the review into a 10-minute meeting agenda. Allocate time to the main attention items and list the decisions needed. Label time allocations as proposed.
+
+CHECK YOUR WORK
+Open the workbook and verify at least two dates/statuses and one record count.
+Confirm that due today is not classified as overdue.
+Check that older completions are not presented as this week's achievements.
+Confirm that missing owners/dates and conflicting evidence remain visible.
+Check that meeting notes and emails have not silently overwritten the tracker.
+
+SUBMIT
+Save the checked weekly report, decision/action table and two follow-up drafts in your exercise submission. Label them Training draft for review. Include the source names and reporting period.

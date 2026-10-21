@@ -1,0 +1,23 @@
+MANAGEMENT REVIEW BRIEF
+Reference ID: BRIEF-01. Fictional workshop brief.
+Audience: PMO lead and project leadership.
+Reporting week: 12 to 16 October 2026. As-of date: 16 October 2026.
+
+Goal
+Produce a concise review pack that identifies what needs leadership attention and what the team must confirm next.
+
+Required outputs
+1. A weekly status report following the supplied Weekly Status Template.
+2. An executive summary of no more than 100 words.
+3. A decision/action table with issue, evidence IDs, decision or action requested, recorded owner or suggested role, and recorded due date or To be agreed.
+4. Two draft follow-up messages: one for an overdue item and one for missing ownership or evidence.
+
+Priorities
+First review blocked or overdue milestones. Then review work due today and during the next seven calendar days. Keep missing owners, missing dates, stale updates and conflicting messages visible.
+
+Evidence rules
+The workbook is the baseline. Emails and meeting notes add context; they do not silently replace status or dates. When the Reporting Guidelines refer to tracker snapshots, apply the same baseline rule to the workbook. Optional text extracts are equivalent snapshots of this workbook, not additional records.
+Do not infer approval, recovery dates, overall completion weights or new commitments. Use the documented fictional RAG rules only if calculated project RAG is requested. Keep reported milestone RAG separate.
+
+Success
+Every material claim can be traced to a file and record or meeting reference. Unresolved items remain explicit. Outputs are drafts for review.

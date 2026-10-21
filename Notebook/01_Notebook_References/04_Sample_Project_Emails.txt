@@ -1,0 +1,30 @@
+FICTIONAL PROJECT EMAILS FOR THE WORKSHOP
+These are static sample messages, not connected Outlook data. Dates use India Standard Time.
+
+Email E01
+Date: 15 October 2026, 15:00
+From: Rohan Mehta
+Subject: Atlas sandbox access
+The vendor expects to provide sandbox access tomorrow. API integration remains blocked until we can validate access. Please request a confirmed access time. No recovery date has been agreed.
+Related records: M02, A01, R01.
+
+Email E02
+Date: 16 October 2026, 10:00
+From: Arjun Sen
+Subject: Beacon validation update
+My validation work is complete. Business confirmation on the two mappings is still pending. Please check whether the milestone can be marked Completed.
+Related records: M06, A03.
+
+Email E03
+Date: 16 October 2026, 11:30
+From: Dev Patel
+Subject: Cedar security review
+Evidence for the remaining finding has been sent to the reviewer. Clearance has not yet been received. The rehearsal depends on clearance.
+Related records: M10, M11, A05, R03.
+
+Email E04
+Date: 16 October 2026, 14:00
+From: Farah Khan
+Subject: Cedar handover owner
+The operations handover owner is still unassigned. Please ask the project lead to nominate an owner. I can provide migration context but have not accepted ownership of the handover.
+Related records: M12, A06.

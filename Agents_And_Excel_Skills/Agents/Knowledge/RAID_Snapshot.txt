@@ -1,0 +1,58 @@
+RAID source snapshot
+
+Fictional training data. As of 16 October 2026. Blank fields mean missing, not zero.
+
+RAID ID: R01
+Project: Atlas Onboarding
+Type: Issue
+Description: Sandbox access unavailable
+Impact: High
+Owner: Rohan Mehta
+Status: Open
+Review Date: 2026-10-19
+Response: Escalate access request to vendor lead
+Milestone ID: M02
+
+RAID ID: R02
+Project: Beacon Reporting
+Type: Risk
+Description: UAT may slip if mappings remain open
+Impact: Medium
+Owner: Kavya Iyer
+Status: Open
+Review Date: 2026-10-20
+Response: Confirm mappings before UAT
+Milestone ID: M07
+
+RAID ID: R03
+Project: Cedar Migration
+Type: Dependency
+Description: Security clearance required for rehearsal
+Impact: High
+Owner: Dev Patel
+Status: Open
+Review Date: 2026-10-16
+Response: Obtain reviewer decision
+Milestone ID: M11
+
+RAID ID: R04
+Project: Beacon Reporting
+Type: Assumption
+Description: Business testers available on 22 October
+Impact: Medium
+Owner: Kavya Iyer
+Status: Open
+Review Date: 2026-10-19
+Response: Confirm availability with business lead
+Milestone ID: M07
+
+RAID ID: R05
+Project: Cedar Migration
+Type: Issue
+Description: Environment setup delay
+Impact: Low
+Owner: Farah Khan
+Status: Closed
+Review Date: 2026-10-13
+Response: Environment completed on 13 October
+Milestone ID: M09

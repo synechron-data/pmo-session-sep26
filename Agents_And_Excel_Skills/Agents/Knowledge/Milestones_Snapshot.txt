@@ -1,0 +1,159 @@
+Milestones source snapshot
+
+Fictional training data. As of 16 October 2026. Blank fields mean missing, not zero.
+
+Milestone ID: M01
+Project: Atlas Onboarding
+Milestone: Requirements sign-off
+Owner: Asha Rao
+Due Date: 2026-10-12
+Completed Date: 2026-10-12
+Status: Completed
+Progress: 100%
+Reported RAG: Green
+Last Update: 2026-10-12
+Comments: Signed off by business lead
+Dependency: None
+
+Milestone ID: M02
+Project: Atlas Onboarding
+Milestone: API integration
+Owner: Rohan Mehta
+Due Date: 2026-10-15
+Completed Date: [missing]
+Status: Blocked
+Progress: 65%
+Reported RAG: Red
+Last Update: 2026-10-16
+Comments: Sandbox access still pending
+Dependency: Vendor sandbox access
+
+Milestone ID: M03
+Project: Atlas Onboarding
+Milestone: Integration testing
+Owner: Neha Shah
+Due Date: 2026-10-21
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Amber
+Last Update: 2026-10-16
+Comments: Depends on M02
+Dependency: M02
+
+Milestone ID: M04
+Project: Atlas Onboarding
+Milestone: Release readiness
+Owner: Asha Rao
+Due Date: 2026-10-23
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Amber
+Last Update: 2026-10-16
+Comments: Readiness review scheduled
+Dependency: M03
+
+Milestone ID: M05
+Project: Beacon Reporting
+Milestone: Data mapping
+Owner: Kavya Iyer
+Due Date: 2026-10-09
+Completed Date: 2026-10-09
+Status: Completed
+Progress: 100%
+Reported RAG: Green
+Last Update: 2026-10-09
+Comments: Mapping accepted
+Dependency: None
+
+Milestone ID: M06
+Project: Beacon Reporting
+Milestone: Data validation
+Owner: Arjun Sen
+Due Date: 2026-10-14
+Completed Date: [missing]
+Status: In Progress
+Progress: 80%
+Reported RAG: Amber
+Last Update: 2026-10-15
+Comments: Two source mappings unresolved
+Dependency: Business clarification
+
+Milestone ID: M07
+Project: Beacon Reporting
+Milestone: UAT sign-off
+Owner: Kavya Iyer
+Due Date: 2026-10-22
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Amber
+Last Update: 2026-10-16
+Comments: Testers nominated
+Dependency: M06
+
+Milestone ID: M08
+Project: Beacon Reporting
+Milestone: Support handover
+Owner: Vikram Das
+Due Date: 2026-10-26
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Green
+Last Update: 2026-10-09
+Comments: Draft runbook pending
+Dependency: M07
+
+Milestone ID: M09
+Project: Cedar Migration
+Milestone: Environment readiness
+Owner: Farah Khan
+Due Date: 2026-10-13
+Completed Date: 2026-10-13
+Status: Completed
+Progress: 100%
+Reported RAG: Green
+Last Update: 2026-10-13
+Comments: Environment checks complete
+Dependency: None
+
+Milestone ID: M10
+Project: Cedar Migration
+Milestone: Security review
+Owner: Dev Patel
+Due Date: 2026-10-16
+Completed Date: [missing]
+Status: In Progress
+Progress: 90%
+Reported RAG: Amber
+Last Update: 2026-10-16
+Comments: One review finding open
+Dependency: Security reviewer
+
+Milestone ID: M11
+Project: Cedar Migration
+Milestone: Migration rehearsal
+Owner: Farah Khan
+Due Date: 2026-10-20
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Amber
+Last Update: 2026-10-16
+Comments: Depends on security clearance
+Dependency: M10
+
+Milestone ID: M12
+Project: Cedar Migration
+Milestone: Operations handover
+Owner: [missing]
+Due Date: 2026-10-23
+Completed Date: [missing]
+Status: Not Started
+Progress: 0%
+Reported RAG: Green
+Last Update: 2026-10-08
+Comments: Owner assignment required
+Dependency: M11

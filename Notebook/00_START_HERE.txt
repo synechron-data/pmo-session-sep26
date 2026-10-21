@@ -1,0 +1,32 @@
+PMO NOTEBOOK PARTICIPANT PACK
+For the Synechron PMO training audience.
+All projects, people, messages and policies are fictional workshop examples.
+
+PURPOSE
+Prepare a weekly PMO review by combining a project tracker, reporting rules, sample emails, meeting notes and a management brief in Microsoft 365 Copilot Notebooks.
+
+WHAT TO ADD TO THE NOTEBOOK
+Add all seven files inside 01_Notebook_References:
+1. PMO_Project_Tracker.xlsx
+2. 01_PMO_Reporting_Guidelines.txt
+3. 02_Escalation_and_Ownership.txt
+4. 03_Weekly_Status_Template.txt
+5. 04_Sample_Project_Emails.txt
+6. 05_PMO_Review_Meeting_Notes.txt
+7. 06_Management_Review_Brief.txt
+
+WHAT TO KEEP OUTSIDE THE NOTEBOOK REFERENCES
+02_Notebook_Setup_and_Instructions.txt: follow the setup steps and paste only the instruction block into notebook Instructions.
+03_Notebook_Participant_Exercises.txt: paste prompts into the notebook chat one at a time.
+04_Optional_Tracker_Extracts: use only if the workbook content cannot be retrieved. See the setup guide.
+This start guide is not a reference source.
+
+REPORTING BASIS
+As of 16 October 2026. Reporting week: 12 to 16 October 2026.
+Keep these dates for the exercise even when the session occurs later.
+The three fictional projects are Atlas Onboarding, Beacon Reporting and Cedar Migration.
+
+WHAT YOU WILL PRODUCE
+A weekly PMO report, a decision/action table and two follow-up drafts. Include evidence IDs, unresolved discrepancies and missing information.
+
+Use this pack for the PMO Notebook exercises.

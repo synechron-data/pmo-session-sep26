@@ -1,0 +1,26 @@
+PMO EXCEL SKILLS: SETUP AND EXERCISES
+
+Open a working copy of PMO_Project_Tracker.xlsx. The workbook contains fictional Milestones, Actions and RAID data as of 16 October 2026.
+
+INSTALLATION
+In Excel Copilot, open Settings (...) > Manage plugins & skills > Custom skills. Create the OneDrive skills folder if needed, then open it. Copy the pmo-weekly-status and pmo-action-followup folders into it, keeping each SKILL.md inside its matching folder. Refresh the custom-skills list. Invoke a skill from Choose plugins and skills or with its @name. Office display language must be English. Availability depends on your tenant. If custom skills are absent, use each file's instruction body as a practice prompt; this does not install a skill.
+
+EXERCISE 1
+@pmo-weekly-status Create the weekly PMO status report using the as-of date in the workbook. Include achievements, overdue milestones, due-today work, upcoming milestones, open RAID entries and data-quality questions. Preserve source sheets.
+
+EXERCISE 2
+@pmo-action-followup Review the action log and prepare owner follow-up drafts. Separate overdue, due-today, upcoming and unknown-date actions. Flag unassigned actions. Do not send messages.
+
+EXERCISE 3
+On your working copy, mark A01 Completed after adding closure evidence to its Comments cell. Rerun the action skill and check that the item leaves the open-action workload. Do not treat this exercise edit as a real completion.
+
+EXERCISE 4
+On your working copy, change all three as-of dates to 19 October 2026. Rerun both skills and check which due-today and overdue lists change. Verify using the original due dates and status fields. Restore the original dates before comparing with the agent exercise.
+
+SUBMISSION
+Save your working workbook with generated outputs and one follow-up draft. Record any unsupported claims or incorrect classifications you corrected.
+
+Microsoft setup reference:
+https://support.microsoft.com/en-us/excel/copilot/copilot-in-excel-skills
+
+Use these reusable instructions to practise repeatable PMO tasks. Verify each generated output against the source tracker.

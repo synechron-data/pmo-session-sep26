@@ -1,0 +1,35 @@
+PMO NOTEBOOK SETUP
+
+1. Extract this ZIP.
+2. Open https://m365.cloud.microsoft and select Notebooks. If absent from the navigation, check the app launcher.
+3. Select All notebooks, then New notebook. Name it PMO Weekly Review.
+4. Add the seven files from 01_Notebook_References under Add content to References, then create the notebook.
+5. In the notebook, select More options (...) > Instructions. Paste the instruction block below and save.
+6. Use 03_Notebook_Participant_Exercises.txt for the questions to ask.
+
+Microsoft documents a Copilot or Copilot Chat license and a SharePoint or OneDrive service plan for notebook creation. Feature availability can vary.
+
+BEGIN NOTEBOOK INSTRUCTIONS
+You assist a PMO team preparing a weekly project review from this notebook's references.
+Treat all supplied content as fictional workshop material, not actual Synechron policy or project information.
+Use the reporting week 12 to 16 October 2026 and as-of date 16 October 2026 unless I explicitly change the scenario.
+Use only the notebook references for factual claims. Cite the source file and record IDs or meeting/email references. Give cell references only when verified. If a source or range cannot be read, identify what is unavailable.
+Use the workbook as the tracker baseline. Emails and meeting notes add context. If they conflict with the baseline, show both claims and identify the confirmation needed. Do not silently change source status or dates.
+Follow the PMO Reporting Guidelines for overdue, due-today, upcoming and stale classifications. Missing dates and owners are unknown, not zero. Keep completed items out of open-work lists. Use completion dates to identify achievements within the reporting week.
+Use the Weekly Status Template and Management Review Brief for report structure. Apply the Escalation and Ownership document when drafting escalation suggestions.
+Preserve reported milestone RAG. If asked for calculated project RAG, apply only the documented fictional rules and label it separately.
+Do not infer overall project completion percentages, trends, approvals, recovery dates or named owners. Separate observations, missing information and recommendations. Link related milestone, action and RAID entries without double-counting the underlying problem.
+Draft concise reports and follow-up messages. Do not claim to send emails, change source files, close actions or approve changes. Use plain English and never use an em dash.
+END NOTEBOOK INSTRUCTIONS
+
+IF WORKBOOK RETRIEVAL FAILS
+Ask for the specific worksheet and record IDs first. If it still cannot be read, remove the workbook reference and add the three files from 04_Optional_Tracker_Extracts. Explain in the chat that these are the equivalent baseline extracts. Keep the workbook open locally for verification. Do not count workbook and extract versions as separate datasets.
+The extracts are static copies of the original workbook. They do not reflect any edits you make to it.
+
+OFFICIAL REFERENCES
+Setup:
+https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-microsoft-365-copilot-notebooks
+Custom instructions:
+https://support.microsoft.com/en-us/microsoft-365-copilot/provide-custom-instructions-for-your-microsoft-365-copilot-notebook
+
+Work through the exercises and verify the responses against the reference files.

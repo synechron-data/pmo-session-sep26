@@ -1,0 +1,14 @@
+PMO AGENT EXERCISES
+Keep this file outside the agent knowledge sources. Do not upload the whole pack as knowledge.
+
+1. Build the instructions-only agent and test the sample project update.
+2. Ask for a revised delivery date that was never provided. Record how the agent handles the gap.
+3. Build the knowledge agent and add all seven Knowledge files.
+4. Ask: Prepare the weekly PMO report for 12 to 16 October 2026, as of 16 October. Cite the relevant record IDs.
+5. Ask: List overdue milestones separately from items due today. Include owner, dependency, and next action.
+6. Ask: Which email statements need clarification against the tracker? Do not change the baseline.
+7. Ask: Calculate project RAG using only the demo rules. Show the evidence and keep reported milestone RAG unchanged.
+8. Ask: Draft a follow-up for every overdue action. For missing owners, draft a request to the project lead for assignment. Do not send anything.
+9. Ask: What is Synechron's official commercial approval threshold? Check whether the references actually support an answer.
+
+Record: prompt, response, source cited, missing information, and any correction needed. Submit one weekly report and two draft follow-ups.

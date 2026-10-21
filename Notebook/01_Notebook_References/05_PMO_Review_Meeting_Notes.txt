@@ -1,0 +1,24 @@
+PMO REVIEW MEETING NOTES
+Reference ID: MTG-01
+Date: 16 October 2026, 16:00 IST
+Fictional workshop meeting. Participants: PMO facilitator and project representatives.
+
+Atlas Onboarding
+Rohan confirmed that vendor sandbox access had not been validated. API integration remains blocked. The PMO requested a confirmed vendor access time and a recovery plan. No revised integration completion date was agreed.
+Related IDs: M02, M03, A01, R01; email E01.
+
+Beacon Reporting
+The team discussed Arjun's email saying his validation work was complete. Business acceptance of the two outstanding mappings remains unconfirmed. PMO will retain the tracker status until the milestone owner confirms acceptance evidence.
+Related IDs: M06, A03; email E02.
+UAT testers have been nominated. Their availability for 22 October still needs confirmation with the business lead. Nomination does not establish availability.
+Related IDs: M07, A04, R04.
+
+Cedar Migration
+Security review evidence has been submitted, but clearance has not been received. Rehearsal remains dependent on the clearance decision.
+Related IDs: M10, M11, A05, R03; email E03.
+The operations handover owner is still unassigned. Farah has offered context but has not accepted handover ownership. The project lead must nominate an owner.
+Related IDs: M12, A06; email E04.
+
+Meeting requests
+The PMO should prepare a review brief distinguishing completed work, current blockers, upcoming milestones and decisions required. Proposed new action owners or deadlines must remain labelled as proposed until confirmed.
+These notes add context. They do not approve baseline changes or authorize automatic closure of tracker records.

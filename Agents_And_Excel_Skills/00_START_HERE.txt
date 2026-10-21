@@ -1,0 +1,29 @@
+PMO AGENTS AND EXCEL SKILLS: PARTICIPANT PACK
+For Synechron PMO participants.
+All projects, people, updates, and governance rules are fictional workshop material. They are not Synechron policies or operational records.
+
+PART 1: INSTRUCTIONS-ONLY AGENT
+Use Agents/01_Instructions_Only_Agent.txt as the agent's instructions.
+Paste the sample update supplied in that file into the test conversation. Do not add knowledge sources for this agent.
+
+PART 2: AGENT WITH KNOWLEDGE
+Use Agents/02_Knowledge_Agent.txt as the agent's instructions.
+Add the seven text files in Agents/Knowledge as knowledge sources.
+Use Agents/03_Participant_Exercises.txt to test the agent. Keep the exercise file outside its knowledge sources.
+These are content inputs for Microsoft 365 Copilot Agent Builder or Copilot Studio, not an importable agent solution. Configure the agent in your available product. This exercise drafts reports and messages. No sending or workflow integration is supplied.
+
+EXCEL SKILLS
+Open Excel_Skills/PMO_Project_Tracker.xlsx in Excel and work on a copy.
+Read Excel_Skills/01_SETUP_AND_EXERCISES.txt.
+Install the two individual skill folders inside Excel_Skills/skills using the documented OneDrive custom-skills workflow. Do not upload the whole participant ZIP as a skill.
+
+REPORTING BASIS
+As-of date: 16 October 2026. Reporting week: 12 to 16 October 2026.
+Use this date even when running the workshop later.
+The Excel workbook and agent text snapshots contain the same starting records. They are static copies, not synchronized sources. Edits you make to the workbook do not reach the agent's snapshots, so restore the original values before comparing agent and Excel results.
+
+CONTENTS
+Agents: two instruction files, participant test prompts, governance rules, reporting template, sample emails, and three tracker snapshots.
+Excel Skills: workbook with 12 milestones, 8 actions, 5 RAID entries; two reusable SKILL.md files; setup instructions and practice prompts.
+
+Use the exercises to practise building and testing your agents and Excel skills.
